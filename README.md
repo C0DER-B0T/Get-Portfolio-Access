@@ -1,5 +1,8 @@
-# Get-Portfolio-Access Guide 
+# Preview 
 
+<video src="assets/lv_0_20260318165655.mp4" autoplay loop muted width="100%"></video>
+
+# Get-Portfolio-Access Guide 
 
 # How to Unlock the Portfolio Source Code ?
 
